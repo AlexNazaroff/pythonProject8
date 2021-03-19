@@ -10,7 +10,6 @@ driver=webdriver.Chrome()
 
 #driver.implicitly_wait(20) # seconds
 
-#driver.get("http://somedomain/url_that_delays_loading")
 #myDynamicElement = driver.find_element_by_id("myDynamicElement")
 
 driver.get('http://www.python.org')
